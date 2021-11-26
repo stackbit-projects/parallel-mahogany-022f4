@@ -33,7 +33,7 @@
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/photo.carl/?hl=es",
-                "style": "icon",
+                "style": "link",
                 "icon_class": "instagram",
                 "new_window": true
             },
