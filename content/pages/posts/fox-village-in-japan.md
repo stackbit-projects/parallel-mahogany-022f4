@@ -1,5 +1,5 @@
 ---
-title: ¿Com
+title: '¿Comó '
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
