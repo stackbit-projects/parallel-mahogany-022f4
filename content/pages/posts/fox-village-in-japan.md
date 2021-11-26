@@ -40,10 +40,11 @@ thumb_img_path: /images/_DSC8205.jpg
 excerpt: >-
   Muchas veces tenemos la intención de tomarnos una nueva fotografía de perfil ó
   sólo para compartir en nuestras redes sociales. Sin embargo, lograr la
-  fotografía ideal ó que realmente nos guste . Esto debido a que en una sesión
-  se ven implicados distintos aspectos y situaciones que influyen en el
-  resultado. La principal, es la dirección que tiene que darle los fotógrafos a
-  las modelos para las poses para fotos.
+  fotografía ideal ó que realmente nos guste algunas veces nos resulta
+  complicado por el hecho de que no sabemos que hacer con las manos . Esto
+  debido a que en una sesión se ven implicados distintos aspectos y situaciones
+  que influyen en el resultado. La principal, es la dirección que tiene que
+  darle los fotógrafos a las modelos para las poses para fotos.
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
