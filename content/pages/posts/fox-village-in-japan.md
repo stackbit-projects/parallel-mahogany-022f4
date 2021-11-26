@@ -38,11 +38,12 @@ seo:
 layout: post
 thumb_img_path: /images/_DSC8205.jpg
 excerpt: >-
-  Muchas veces tenemos la intención de tomarnos una nueva fotografía de perfil ó
-  sólo para compartir en nuestras redes sociales. Sin embargo, lograr la
-  fotografía ideal ó que realmente nos guste algunas veces nos resulta
-  complicado por el hecho de que no sabemos que hacer con las manos, la mirada o
-  incluso cómo pararnos.
+  Muchas veces tenemos la intención de tomarnos una nueva fotografía de perfil
+  para compartir en nuestras redes sociales. Sin embargo, lograr la fotografía
+  ideal ó que realmente nos guste algunas veces nos resulta complicado por el
+  hecho de que no sabemos que hacer con las manos, la mirada o incluso cómo
+  pararnos. A continuación te daremos algunos tips para que la próxima vez te
+  sea más fácil lograr tu fotografía ideal.
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
