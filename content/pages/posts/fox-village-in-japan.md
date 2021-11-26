@@ -1,5 +1,5 @@
 ---
-title: ¿ Cómo posar para sesión de fotos?
+title: ¿Cómo posar para sesión de fotos?
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
