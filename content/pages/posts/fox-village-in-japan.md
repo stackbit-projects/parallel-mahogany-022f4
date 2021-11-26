@@ -37,6 +37,12 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: /images/_DSC8205.jpg
+excerpt: >-
+  Muchas veces tenemos diferente ideas para una sesión fotográfica. Sin embargo,
+  poder plasmarlo resulta un reto para los fotógrafos. Esto debido a que en una
+  sesión se ven implicados distintos aspectos y situaciones que influyen en el
+  resultado. La principal, es la dirección que tiene que darle los fotógrafos a
+  las modelos para las poses para fotos. 
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
