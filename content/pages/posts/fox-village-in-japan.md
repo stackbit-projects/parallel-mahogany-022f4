@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo posar para sesión de fotos?
-date: '2020-01-11'
+date: '2020-01-02'
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
