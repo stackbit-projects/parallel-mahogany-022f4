@@ -1,5 +1,5 @@
 ---
-title: ¿ C
+title: '¿ Cómo posar para '
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
